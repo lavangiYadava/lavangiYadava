@@ -1,4 +1,4 @@
-## Hi, I'm Lavangi! 
+# Hi, I'm Lavangi! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F08486?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavangiYadava/)
 [![Instagram](https://img.shields.io/badge/Instagram-EB5b5E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lavangi.yadava/)
 [![Email](https://img.shields.io/badge/Email-E83A3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lyadava@purdue.edu)
