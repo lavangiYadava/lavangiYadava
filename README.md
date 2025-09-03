@@ -6,7 +6,7 @@
 I am a junior at Purdue University, majoring in Computer Science with a minor in Physics. My favorite languages are Java and C, and Arabic and Hindi. I enjoy exploring all applications of software engineering and machine learning, and when I’m not developing or programming, I spend my time reading and writing!!
 
 ### Currently working on...
-Merging LLMs!!
+Merging LLMs using HuggingFace and MergeKit.
 
 ### Currently learning...
 Intracies and nuances of HuggingFace models and Agentic Workflow Frameworks.
